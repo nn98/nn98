@@ -27,7 +27,6 @@
 </p>
 
 
-* * *  
 <p align="center">
     <a href="https://github.com/nn98">
         <img src="https://github-readme-stats.vercel.app/api?username=nn98&theme=gruvbox">
@@ -37,12 +36,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nn98&layout=compact&exclude_repo=productive-box,rally-discordbot-dashboard&hide=jupyter%20notebook,scss,ruby&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
   
-* * *
-  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=q9922000)](https://solved.ac/q9922000)
 <img src="http://mazandi.herokuapp.com/api?handle=q9922000&theme=cold"/>
 
-* * *
 
 ## Project
 
