@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/badge/Oracle Cloude-F80000?style=platic&logo=oracle&logoColor=white"/>&nbsp&nbsp&nbsp&nbsp
     <br/>
     &nbsp&nbsp&nbsp&nbsp
+    <br/>
+    &nbsp&nbsp&nbsp&nbsp
     <img width="450" src="https://github-readme-stats.vercel.app/api?username=nn98&show_icons=true&count_private=true&theme=dracula" />
   </div>
 </div>
