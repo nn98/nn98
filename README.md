@@ -4,7 +4,7 @@
     <img width="280" align="right" display="inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nn98&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 <a href="https://suave-lilac-075.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a> &nbsp&nbsp&nbsp
     <br/>
-    <a href="https://solved.ac/whkakrkr"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=q9922000"/></a> &nbsp&nbsp&nbsp
+    <a href="https://solved.ac/q9922000"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=q9922000"/></a> &nbsp&nbsp&nbsp
     <br/>
     <img src="https://img.shields.io/badge/JAVA-007396?style=platic&logo=Joplin&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=platic&logo=spring&logoColor=white"/>&nbsp&nbsp&nbsp&nbsp
     <br/>
