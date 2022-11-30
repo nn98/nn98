@@ -18,6 +18,6 @@
     <br/>
     &nbsp&nbsp&nbsp&nbsp
     <img width="450" src="https://github-readme-stats.vercel.app/api?username=nn98&show_icons=true&theme=dracula" />
-    <img width="450" src="https://github-readme-stats.vercel.app/api?username=nn98&theme=material-palenight&show_icons=true" />
+<!--     <img width="450" src="https://github-readme-stats.vercel.app/api?username=nn98&theme=material-palenight&show_icons=true" /> -->
   </div>
 </div>
