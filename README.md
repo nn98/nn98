@@ -13,9 +13,6 @@
     <img src="https://img.shields.io/badge/Android-3DDC84?style=platic&logo=android&logoColor=white"/>&nbsp&nbsp&nbsp&nbsp
     <br/>
     <img src="https://img.shields.io/badge/Oracle Cloude-F80000?style=platic&logo=oracle&logoColor=white"/>&nbsp&nbsp&nbsp&nbsp
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img align="right" display="inline" src="https://github-profile-trophy.vercel.app/?username=nn98&row=1&column=7" />
-    </a>
     <br/>
     &nbsp&nbsp&nbsp&nbsp
     <br/>
@@ -23,6 +20,9 @@
     <img width="460" src="https://github-readme-stats.vercel.app/api?username=nn98&show_icons=true&theme=dracula" />&nbsp&nbsp&nbsp&nbsp
     <br/>
     &nbsp&nbsp&nbsp&nbsp
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img align="right" display="inline" src="https://github-profile-trophy.vercel.app/?username=nn98&row=1&column=7" />
+    </a>
 <!--     <img width="450" src="https://github-readme-stats.vercel.app/api?username=nn98&theme=material-palenight&show_icons=true" /> -->
   </div>
 </div>
