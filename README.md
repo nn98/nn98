@@ -14,7 +14,7 @@
     <br/>
     <img src="https://img.shields.io/badge/Oracle Cloude-F80000?style=platic&logo=oracle&logoColor=white"/>&nbsp&nbsp&nbsp&nbsp
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img width=1800 align="right" display="inline" src="https://github-profile-trophy.vercel.app/?username=nn98&row=1&column=7" />
+      <img align="right" display="inline" src="https://github-profile-trophy.vercel.app/?username=nn98&row=1&column=7" />
     </a>
     <br/>
     &nbsp&nbsp&nbsp&nbsp
