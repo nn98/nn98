@@ -2,7 +2,7 @@
 <div align="left" display="inline">
   <div align="right" display="inline">
     <img width="280" align="right" display="inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nn98&theme=dracula&hide=Procfile&layout=compact&langs_count=8"/>
-<a href="https://amused-ground-491.notion.site/README-a0c18f2016394d7ab716b0f734ddc9d3"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a> &nbsp&nbsp&nbsp
+<a href="https://amused-ground-491.notion.site/README-a0c18f2016394d7ab716b0f734ddc9d3"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white"/></a> &nbsp&nbsp&nbsp
     <br/>
     <a href="https://solved.ac/q9922000"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=q9922000"/></a> &nbsp&nbsp&nbsp
     <br/>
