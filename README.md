@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Oracle Cloude-F80000?style=platic&logo=oracle&logoColor=white"/><img src="https://img.shields.io/badge/AWS-232F3E?style=platic&logo=amazonaws&logoColor=white"/>
     <br/>
     <br/>
-<p align="center">
+<div align="center">
   &nbsp
     <a href="https://github.com/nn98">
         <img src="https://github-readme-stats.vercel.app/api?username=nn98&theme=gruvbox" height="150">
@@ -32,7 +32,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nn98&layout=compact&exclude_repo=productive-box,rally-discordbot-dashboard&hide=jupyter%20notebook,scss,ruby&langs_count=5&theme=gruvbox" height="150">
     </a>
       &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-</p>
+</div>
   <details>
     <summary><h4>ETC</h4></summary>
     
