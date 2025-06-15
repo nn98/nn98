@@ -13,7 +13,7 @@
     <a href="https://github.com/nn98/SW_Competition_2019">
         <img src="https://velog.velcdn.com/images/nn98/post/afb180ef-33a3-465e-9caf-6d2f89ca8ad4/image.png" height="200">
     </a>
-    &nbsp&nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp&nbsp&nbsp
   <br/>
       
   <details>
