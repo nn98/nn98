@@ -21,10 +21,11 @@
     <a href="https://solved.ac/q9922000">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=q9922000"/>
     </a>
-      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+      &nbsp&nbsp&nbsp&nbsp
     <a href="https://solved.ac/q9922000">
       <img src="http://mazandi.herokuapp.com/api?handle=q9922000&theme=cold"/>
     </a>
+      &nbsp&nbsp&nbsp&nbsp&nbsp
   </details>
 
 </div>
